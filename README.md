@@ -1,1 +1,3 @@
-# Sistema_de_Registro
+<h1> Sistema_de_Registro</h1>
+
+-Estado del proyecto: En construccion.
